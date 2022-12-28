@@ -1,0 +1,15 @@
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/bin/Debug/net7.0/1
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/bin/Debug/net7.0/1.deps.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/bin/Debug/net7.0/1.runtimeconfig.json
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/bin/Debug/net7.0/1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/bin/Debug/net7.0/1.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.csproj.AssemblyReference.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.AssemblyInfoInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.AssemblyInfo.cs
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.csproj.CoreCompileInputs.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/refint/1.dll
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.pdb
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/1.genruntimeconfig.cache
+/Users/evgenijbelov/Documents/GB/C#2/dz/itog/1/obj/Debug/net7.0/ref/1.dll
